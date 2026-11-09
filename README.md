@@ -80,3 +80,19 @@ python -m playwright show-trace trace.zip
 ## Aplicação testada
 
 Os testes utilizam o SimulaBank, uma aplicação de demonstração. Os dados e transações são fictícios; não utilize credenciais ou informações bancárias reais.
+
+## 🎬 Evidências de execução dos testes
+
+Este projeto possui evidências em vídeo demonstrando a execução dos testes automatizados utilizando Python, Pytest e Playwright.
+
+### Demonstração dos testes
+
+[▶️ Assistir ao vídeo de execução dos testes](evidencias/execucao-testes.mp4)
+
+O vídeo apresenta:
+- Teste de login com sucesso.
+- Realização de transferência Pix.
+- Contratação de empréstimo.
+- Bloqueio de segundo empréstimo.
+- Bloqueio de Pix acima do limite.
+- Resultado final da execução dos testes automatizados.
