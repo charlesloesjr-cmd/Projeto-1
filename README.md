@@ -1,6 +1,6 @@
 # Automação de Testes E2E com Playwright e Python (POM)
 
-[![Playwright Tests](https://github.com/charlesloesjr-cmd/playwright-course-pom/actions/workflows/playwright.yml/badge.svg)](https://github.com/charlesloesjr-cmd/playwright-course-pom/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/charlesloesjr-cmd/Projeto-1/actions/workflows/playwright.yml/badge.svg)](https://github.com/charlesloesjr-cmd/Projeto-1/actions/workflows/playwright.yml)
 
 Projeto de automação de testes End-to-End (E2E) utilizando **Python**, **Playwright**, **Pytest** e o padrão **Page Object Model (POM)**. Valida fluxos de uma aplicação financeira de demonstração: autenticação, Pix e contratação de empréstimos.
 
