@@ -1,0 +1,16 @@
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.vscode/
+venv/
+.venv/
+.DS_Store
+.env
+test-results/
+playwright-report/
+blob-report/
+# Artefatos de trace gerados localmente (no CI, são publicados como artefatos)
+trace.zip
+playwright-traces.zip
+# Relatórios HTML gerados localmente
+*.html
